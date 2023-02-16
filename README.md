@@ -2,7 +2,7 @@
 
 Launching guides for frontend and backend are described in detail in README's in their dirs
 
-Unfortonutely, I could not implement in time authentication/authorization(User's mock data is hardcoded into userStore) and TODO's deadline adding functionality, that's why it is in initial state. If I had had some more time, I would have implemented it without any problems. I've decided to implement frontend of the app with the todoist-like design first and spent on the backend much less time
+Unfortonutely, I could not implement in time authentication/authorization(User's mock data is hardcoded into userStore) and TODO's deadline adding functionality, that's why it is in initial state. If I had had some more time, I would have implemented it without any problems. I've decided to implement frontend of the app with the todoist-like design first and had on the backend much less time left
 
 ## 💅 Frontend Web Stack
 
