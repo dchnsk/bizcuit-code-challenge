@@ -27,7 +27,7 @@ On Frontend:
 -   Add sign in/sign up pages
 -   Add unit-tests
 -   Add ability to navigate with keyboard for dropdown menu for priorities
--   Add ability to watch completed tasks
+-   Add ability to filter tasks to see only those, which are completed
 -   Add normal data serialization
 -   Add pagination
 -   Add favicon
