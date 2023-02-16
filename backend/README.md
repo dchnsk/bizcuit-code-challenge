@@ -33,7 +33,7 @@ npm run dev
 - Sequelize - used as main ORM
 - postgreSQL
 
-On Backend:
+TODO on Backend:
 
 - Implement secure authentication/authorization
 - Add unit-tests
