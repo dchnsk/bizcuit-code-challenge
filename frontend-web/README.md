@@ -25,7 +25,7 @@ npm run dev
 - Tailwind - for quick styling
 - Flowbit - UI lib
 
-On Frontend:
+TODO on Frontend:
 
 - Add sign in/sign up pages
 - Add unit-tests
