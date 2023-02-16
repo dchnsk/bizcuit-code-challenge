@@ -9,14 +9,18 @@
 ```bash
 npm i
 ```
+3. Build
+```bash
+npm run build
+```
 
-3. Run Postgres server in the Docker container in detached mode
+4. Run Postgres server in the Docker container in detached mode
 
 ```bash
 docker-compose up -d
 ```
 
-4. Launch in dev mode
+5. Launch in dev mode
 
 ```bash
 npm run dev
